@@ -1,0 +1,22 @@
+Package: COBRA
+Type: Package
+Title: COBRA: A Batch Effect Correction Method for scRNA
+Version: 0.1.0
+Authors@R:
+    c(person(given = "Sujin",
+             family = "FamilyName",
+             role = c("aut", "cre"),
+             email = "your_email@domain.com"))
+Description: Provides a batch effect correction method for single-cell RNA-seq data.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 4.1.1)
+Imports:
+    ClusterR,
+    Matrix,
+    MASS,
+    Rfast,
+    stats
+
