@@ -1,4 +1,5 @@
-```markdown
+
+
 # COBRA
 **A New Batch Effect Correction Pipeline for Single-Cell RNA-Seq Data**
 
@@ -158,4 +159,4 @@ See the [LICENSE](./LICENSE) file for details.
 - **Author**: Sujin Seo  
 - **Email**: <your_email@domain.com>  
 - If you have any questions or issues, please open an [Issue](https://github.com/YourGitHubID/COBRA/issues) on GitHub.
-```
+
