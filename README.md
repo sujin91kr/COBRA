@@ -23,19 +23,19 @@ If you have **devtools** installed:
 
 ```r
 # install.packages("devtools")
-devtools::install_github("YourGitHubID/COBRA")
+devtools::install_github("sujin91kr/COBRA")
 library(COBRA)
 ```
 
 ### 2) Install Locally
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/YourGitHubID/COBRA.git
+   git clone https://github.com/sujin91kr/COBRA.git
    ```
 2. In R:
    ```r
    # install.packages("devtools")
-   devtools::install("path/to/COBRA")
+   devtools::install("sujin91kr/COBRA")
    library(COBRA)
    ```
 
@@ -127,10 +127,6 @@ corrected <- BatchCorrect(
   - [MASS](https://cran.r-project.org/package=MASS)  
   - [Rfast](https://cran.r-project.org/package=Rfast)  
   - [stats] (base R)  
-- **Suggests** (optional):  
-  - [testthat](https://cran.r-project.org/package=testthat)  
-  - [knitr](https://cran.r-project.org/package=knitr)  
-  - [rmarkdown](https://cran.r-project.org/package=rmarkdown)
 
 Install any missing dependencies via `install.packages("...")`.
 
@@ -157,6 +153,6 @@ See the [LICENSE](./LICENSE) file for details.
 
 ## Contact
 - **Author**: Sujin Seo  
-- **Email**: <your_email@domain.com>  
-- If you have any questions or issues, please open an [Issue](https://github.com/YourGitHubID/COBRA/issues) on GitHub.
+- **Email**: <sujin91kr@gmail.com>  
+- If you have any questions or issues, please open an [Issue](https://github.com/sujin91kr/COBRA/issues) on GitHub.
 
